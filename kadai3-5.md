@@ -9,9 +9,9 @@
 
 データ構造例
 「const items = [
-  { id: 1, name: "緑茶", price: 140, stock: 5 },
-  { id: 2, name: "水", price: 100, stock: 14 },
-  ...
+{ id: 1, name: "緑茶", price: 140, stock: 5 },
+{ id: 2, name: "水", price: 100, stock: 14 },
+...
 ];」
 
 * 連想配列の配列として定義するメリット
